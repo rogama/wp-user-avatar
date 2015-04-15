@@ -79,3 +79,9 @@ msgstr "Bangbay Siboliban"
 #. Author URI of the plugin/theme
 msgid "http://siboliban.org/"
 msgstr "http://siboliban.org/"
+
+msgid "Remove Image"
+msgstr "Quitar Imagen"
+
+msgid "Update Profile"
+msgstr "Actualiza Imagen de Perfil"
